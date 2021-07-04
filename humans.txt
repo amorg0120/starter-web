@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ariane Morgia   amorg0120
 
 # THANKS
 
